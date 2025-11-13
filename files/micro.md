@@ -1,17 +1,17 @@
-![Micro banner](./assets/micro.png)
+![Micro banner](../assets/micro.png)
 
 # Cybrmicro
 Color flavor for Micro editor inspired by the color palette popularized by **Cyberpunk 2077**.
 
 <table>
     <tr>
-    <td><img src="assets/inspiration/insp-micro.png" width="800"/></td>
+    <td><img src="../assets/inspiration/insp-micro.png" width="800"/></td>
 </table>
 
 ## What to do
 
 > [!CAUTION]
-> You have to have [Cybrkitty](/kitty.md) theme installed first!
+> You have to have [Cybrkitty](../files/kitty.md) theme installed first!
 
 ### Create theme file:
 
