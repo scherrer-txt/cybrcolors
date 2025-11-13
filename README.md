@@ -12,22 +12,22 @@ Mimicking the way ambient light reflects on screen surfaces.
 <table>
 <tr>
     <td>
-        <a href="cybrcolors-gtk.css">
+        <a href="files/cybrcolors-gtk.css">
             <img src="assets/gtk-css.png" height="60" />
         </a>
     </td>
     <td>
-        <a href="cybrcolors.scss">
+        <a href="files/cybrcolors.scss">
             <img src="assets/scss.png" height="60" />
         </a>
     </td>
     <td>
-        <a href="cybrcolors.json">
+        <a href="files/cybrcolors.json">
             <img src="assets/json.png" height="60" />
         </a>
     </td>
     <td>
-        <a href="ansi.md">
+        <a href="files/ansi.md">
             <img src="assets/ansi.png" height="60" />
         </a>
     </td>
@@ -39,12 +39,12 @@ Mimicking the way ambient light reflects on screen surfaces.
 <table>
 <tr>
     <td>
-        <a href="kitty.md">
+        <a href="files/kitty.md">
             <img src="assets/kitty.png" height="60" />
         </a>
     </td>
     <td>
-        <a href="micro.md">
+        <a href="files/micro.md">
             <img src="assets/micro.png" height="60" />
         </a>
     </td>
