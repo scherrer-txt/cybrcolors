@@ -4,6 +4,9 @@
 Collection of hand-crafted wallpapers in a visual style inspired by the UI design language and color palette popularized by **Cyberpunk 2077**.  
 Mimicking the way ambient light reflects on screen surfaces.
 
+> [!WARNING]
+> ### Check out my other project, [Cybrpapers](https://github.com/scherrer-txt/cybrpapers)!
+
 ## Color exports
 
 <table>
@@ -65,7 +68,7 @@ Mimicking the way ambient light reflects on screen surfaces.
 </table>
 
 > Backgrounds are made by me - check [Cybrpapers](https://github.com/scherrer-txt/cybrpapers)
->
+> 
 > Cyberpunk 2077 logos, visible in Kitty terminal, are made by [Valency](https://www.valencygraphics.com/cyberpunk-2077)
 
 
