@@ -1,7 +1,7 @@
 ![Micro banner](./assets/micro.png)
 
 # Cybrmicro
-Color flavor for Micro editor inspired by the color palette popularized by **Cyberpunk 2077**.  
+Color flavor for Micro editor inspired by the color palette popularized by **Cyberpunk 2077**.
 
 <table>
     <tr>
